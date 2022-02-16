@@ -15,9 +15,13 @@
 <h2><strong>Circuit</strong></h2>
 <img src ="https://user-images.githubusercontent.com/82873290/154301806-84353dc1-a267-4e4a-af39-1119404a4934.SVG"> </img>
 
+<h2><strong>HARDWARE IMPLEMENATION</strong></h2>
+<img src ="https://user-images.githubusercontent.com/82873290/154308486-3edd1b99-9bdf-4674-ac76-77a576da36fb.png"> </img>
 
+<h2><strong>CONCLUSION</strong></h2>
+The proposed health monitoring unit  is robust and easy to operate, which can be given to patients at the home for maximum restfulness for the professional’s assessment and save the use of hospital bed spaces.
 
-
+The need for the development of pulse oximeter was emerged to enhance the technical competency of India and to provide the cost effective products for the hospital requirements both in urban and rural areas.
 
 
 
