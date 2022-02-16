@@ -13,7 +13,7 @@
 <li>Connecting Wires</li>
 
 <h2><strong>Circuit</strong></h2>
-<img ="https://user-images.githubusercontent.com/82873290/154301806-84353dc1-a267-4e4a-af39-1119404a4934.SVG"> </img>
+<img src ="https://user-images.githubusercontent.com/82873290/154301806-84353dc1-a267-4e4a-af39-1119404a4934.SVG"> </img>
 
 
 
